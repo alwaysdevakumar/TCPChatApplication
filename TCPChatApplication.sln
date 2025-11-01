@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPChatApplication", "TCPCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "..\Client\Client.csproj", "{8EB92DD2-6AB4-4FC2-9568-E169A69A5965}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatCommonn", "..\ChatCommonn\ChatCommonn.csproj", "{CE178B80-2CFE-4F25-A68D-80B7168C7646}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8EB92DD2-6AB4-4FC2-9568-E169A69A5965}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EB92DD2-6AB4-4FC2-9568-E169A69A5965}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EB92DD2-6AB4-4FC2-9568-E169A69A5965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE178B80-2CFE-4F25-A68D-80B7168C7646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE178B80-2CFE-4F25-A68D-80B7168C7646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE178B80-2CFE-4F25-A68D-80B7168C7646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE178B80-2CFE-4F25-A68D-80B7168C7646}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
